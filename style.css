@@ -40,10 +40,12 @@
     margin: 0;
     padding: 0px;
   }
-  .list-item, .todo-title {
+  .list-item,
+  .todo-title {
     list-style: none;
   }
-  .todo-input,.button{
+  .todo-input,
+  .button{
     outline: none;
   }
   .button {
